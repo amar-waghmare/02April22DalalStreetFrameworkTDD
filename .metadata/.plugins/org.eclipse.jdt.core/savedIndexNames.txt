@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\232338\OneDrive\Desktop\Batches\2 April\Framework\02April22DalalStreetFrameworkTDD\.metadata\.plugins\org.eclipse.jdt.core
+2119300101.index
+1865797976.index
+1107095780.index
+386597387.index
+686645814.index
+1865129721.index
+2436073564.index
+3413725848.index
